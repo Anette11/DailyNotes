@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Daily Notes</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_note">Edit note</string>
+    <string name="add_note">Add note</string>
+    <string name="delete_note">Delete note</string>
+    <string name="delete_all_notes">Delete all notes?</string>
+    <string name="time">Time</string>
+    <string name="saved_successfully">Saved successfully</string>
+    <string name="not_saved">NOT saved</string>
+    <string name="updated">Updated</string>
+    <string name="not_updated">NOT updated</string>
+    <string name="simple_date_format">MMM dd, yyyy HH:mm:ss a</string>
+    <string name="please_insert_title">Please fill Title</string>
+    <string name="edit_text_title_hint"><font size="20"><i>Fill Title</i></font></string>
+    <string name="edit_text_description_hint"><font size="15"><i>Fill Description</i></font></string>
+</resources>
