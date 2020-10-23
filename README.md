@@ -11,6 +11,5 @@ Click on delete menu item to delete all notes.
 
 Room database and MVVM.
 
-<img src="1.png" width="216" heigth="384"> <img src="Screenshot_1603035022.png" width="216" heigth="384"> 
+<img src="11.png" width="216" heigth="384"> <img src="2.png" width="216" heigth="384"> <img src="3.png" width="216" heigth="384">  
 
-<img src="Screenshot_1603035302.png" width="216" heigth="384"> <img src="Screenshot_1603034156.png" width="216" heigth="384"> 
